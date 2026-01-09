@@ -27,4 +27,4 @@ The Fashion Collection Website is a static web page designed to display fashion 
 HTML5 – Page structure
 
 CSS3 – Styling and layout
-deployed link: https://jeeva-project.tiiny.site/
+deployed link:https://jeeva-project.tiiny.site/
